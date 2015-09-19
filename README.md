@@ -64,7 +64,8 @@ sender = "+11234567890"
 ```
 
 #### Step 4: Setup Cron
-You must provided the pull path in the cron
+You must provided the pull path in the cron 
+This Example will run every 5 minutes 
 ```sh
 $ crontab -e
 

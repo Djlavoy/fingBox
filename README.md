@@ -1,6 +1,6 @@
 # FingBox Version 0.0.1 Alpha
 
-FingBox is a Monitoring tool that will text you if a Threshold is passed.
+FunctioningBox is a Monitoring tool that will text you if a Threshold is passed.
 
 ### FingBox Currently Monitors 
   - Cpu used %

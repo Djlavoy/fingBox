@@ -10,7 +10,9 @@ FunctioningBox is a Monitoring tool that will text you if a Threshold is passed.
 ### TODO
  - IO monitoring
  - networking monitoring
+ - Call and speak to you about the alert
  - feel free to make request
+ 
 
 
 #### Installing 
